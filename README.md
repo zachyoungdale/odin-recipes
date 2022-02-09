@@ -1,1 +1,2 @@
 # odin-recipes
+this will be my first project with the Odin Project. It is pretty simple but this will be an html file that will have links to recipes online. This will showcase my memory and skills of using things like anchors, links, and other html attributes. 
